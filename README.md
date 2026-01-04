@@ -1,8 +1,6 @@
 # Ultra Slime Mega Wars
 
-## Desenvolveu-se este jogo, no âmbito da cadeira de Programação e Desenvolvimento Web.
-
-## O jogo é um stationary ball shooter com dificuldade progressiva e seleção de personagem à escolha do jogador, com scoreboard implementada em Supabase.
+## Desenvolveu-se este jogo, no âmbito da cadeira de Programação e Desenvolvimento Web. O jogo é um stationary ball shooter com dificuldade progressiva e seleção de personagem à escolha do jogador, com scoreboard implementada em Supabase.
 
 ### O menu inicial do jogo, possui 3 botões principais, sendo eles o "Start", responsável por iniciar o loop do jogo, o "Choose Avatar", onde o jogador pode selecionar um de múltiplos slimes como personagem principal, por fim o "High Score" onde o jogador pode verificar os maiores scores guardados em Supabase.
 
@@ -10,10 +8,12 @@
 
 <img width="1897" height="907" alt="menuInicial" src="https://github.com/user-attachments/assets/08cf0c66-d324-4aa3-9558-0b4c4ea6bbf9" />
 
+### No Seletor de Avatar o jogador possui 22 opções de avatar, sendo o primeiro o escolhido por padrão.
 ### Seleção de Avatar
 
 <img width="1899" height="912" alt="Captura de ecrã 2026-01-04 180835" src="https://github.com/user-attachments/assets/395a36b9-3880-4cbf-82f6-1b3e9cc221b5" />
 
+### Dentro do jogo, o jogador tem de apontar, alterar o ângulo, a força do disparo e por fim disparar uma bolha de água para eliminar os slimes inimigos. À medida que o jogador elimina inimigos ele progride nos níveis onde a dificuldade aumenta(A velocidade dos inimigos aumenta) e aumenta o seu score, que será adicionado ao High Score quando o jogador perder todas as suas 5 vidas, que são perdidas ao falhar os disparos.
 ### Jogo
 
 <img width="1898" height="911" alt="Captura de ecrã 2026-01-04 180934" src="https://github.com/user-attachments/assets/29b1efbb-783a-4878-bab6-2d6d2cb0e917" />

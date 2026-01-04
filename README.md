@@ -20,5 +20,6 @@
 
 ### High Score
 
-<img width="1897" height="907" alt="menuInicial" src="https://github.com/user-attachments/assets/4a190e22-abf7-4c9f-b8fc-9adcb2441dfe" />
+<img width="1900" height="912" alt="Captura de ecrã 2026-01-04 181014" src="https://github.com/user-attachments/assets/f6b16c56-3ed9-4cb2-983c-1a7cc3037ad2" />
+
 
